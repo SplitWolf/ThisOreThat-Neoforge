@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "thisorethat:zinc_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "thisorethat:zinc_nugget"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "values": [
+    "thisorethat:aluminum_ore",
+    "thisorethat:deepslate_aluminum_ore",
+    "thisorethat:lead_ore",
+    "thisorethat:deepslate_lead_ore",
+    "thisorethat:tin_ore",
+    "thisorethat:deepslate_tin_ore",
+    "thisorethat:zinc_ore",
+    "thisorethat:deepslate_zinc_ore",
+    "thisorethat:aluminum_block",
+    "thisorethat:brass_block",
+    "thisorethat:bronze_block",
+    "thisorethat:lead_block",
+    "thisorethat:silicon_block",
+    "thisorethat:nickel_block",
+    "thisorethat:tin_block",
+    "thisorethat:zinc_block",
+    "thisorethat:raw_aluminum_block",
+    "thisorethat:raw_lead_block",
+    "thisorethat:raw_tin_block",
+    "thisorethat:raw_zinc_block"
+  ]
+}

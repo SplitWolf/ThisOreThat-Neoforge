@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "thisorethat:block/raw_ore_block/raw_lead_block"
+  }
+}

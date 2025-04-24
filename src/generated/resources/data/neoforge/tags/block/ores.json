@@ -1,0 +1,24 @@
+{
+  "values": [
+    "thisorethat:aluminum_ore",
+    "thisorethat:deepslate_aluminum_ore",
+    "thisorethat:lead_ore",
+    "thisorethat:deepslate_lead_ore",
+    "thisorethat:nickel_ore",
+    "thisorethat:deepslate_nickel_ore",
+    "thisorethat:platinum_ore",
+    "thisorethat:deepslate_platinum_ore",
+    "thisorethat:salt_ore",
+    "thisorethat:deepslate_salt_ore",
+    "thisorethat:silver_ore",
+    "thisorethat:deepslate_silver_ore",
+    "thisorethat:sulfur_ore",
+    "thisorethat:deepslate_sulfur_ore",
+    "thisorethat:tin_ore",
+    "thisorethat:deepslate_tin_ore",
+    "thisorethat:uranium_ore",
+    "thisorethat:deepslate_uranium_ore",
+    "thisorethat:zinc_ore",
+    "thisorethat:deepslate_zinc_ore"
+  ]
+}
