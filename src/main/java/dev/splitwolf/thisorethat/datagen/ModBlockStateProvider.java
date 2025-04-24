@@ -34,6 +34,16 @@ public class ModBlockStateProvider extends BlockStateProvider {
     }
 
     private void metalBlockState(DeferredHolder<Block, ? extends Block> block) {
+        if(key(block.get()).toString().equals(modLoc("aluminum_block").toString())) {
+            LogUtils.getLogger().atError().log("Testing Check");
+//            ModelFile al_block = models().cubeColumnHorizontal("aluminuin_block_new",MetalBlockTexture(block.get()),MetalBlockTexture(block.get()));
+            ModelFile al_block = this.cubeAll(block.get(), MetalBlockTexture(block.get()));
+            directionalBlock(block.get(), state -> {
+                state.setValue(BlockStateProperties.FACING,Direction.UP);
+                return  al_block;
+            }, 90);
+            return;
+        }
         blockWithItemAndTexture(block, MetalBlockTexture(block.get()));
     }
     private void oreBlockState(DeferredHolder<Block, ? extends Block>block) {
